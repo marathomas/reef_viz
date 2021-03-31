@@ -2,7 +2,7 @@
 
 Interactive visualization tool of N=4.038 reef sounds (random subset)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/coati_feeding_viz.git/HEAD?urlpath=voila%2Frender%2F04_coati_feeding_viz_tool.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/reef_viz/HEAD?urlpath=%2Fvoila%2Frender%2F02_reef_viz_tool.ipynb)
 
 ## About
 
