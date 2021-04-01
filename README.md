@@ -1,6 +1,6 @@
 # Reef
 
-Interactive visualization tool of N=4.038 reef sounds (random subset)
+Interactive visualization tool of N=1.500 reef sounds (random subset)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/reef_viz/HEAD?urlpath=%2Fvoila%2Frender%2F02_reef_viz_tool.ipynb)
 
